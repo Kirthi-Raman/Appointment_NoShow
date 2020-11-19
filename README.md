@@ -11,3 +11,7 @@ A number of characteristics about the patient are included in each row.<br>
 In the last column, if it says ‘No’ then the patient showed up to their appointment, and if it says ‘Yes’ then they did not show up.<br>
 
 Based in the attributes, identify the factors which contribute in determining the no-show status for an appointment.
+
+## Steps:
+1. Dataset is accessed and cleaned
+2. Dataset is analysis 
