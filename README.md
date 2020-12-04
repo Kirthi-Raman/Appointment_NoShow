@@ -4,7 +4,9 @@ Analysis of dataset to predict the reason of no-show for a dental appointment.
 ## Description
 This dataset includes information from 100k medical appointments in Brazil. <br>
 
-A number of characteristics about the patient are included in each row.<br>
+There are 14 attributes given in the dataset.
+
+Among the characteristics about the patient are included in each row.<br>
 ‘ScheduledDay’ tells us on what day the patient set up their appointment.<br>
 ‘Neighborhood’ indicates the location of the hospital.<br>
 ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.<br>
