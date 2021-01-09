@@ -6,7 +6,9 @@ This dataset includes information from 100k medical appointments in Brazil. <br>
 
 There are 14 attributes given in the dataset.
 
-Among the characteristics about the patient are included in each row.<br>
+The characteristics about the patient are included in each row.<br>
+
+Note:<br>
 ‘ScheduledDay’ tells us on what day the patient set up their appointment.<br>
 ‘Neighborhood’ indicates the location of the hospital.<br>
 ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.<br>
